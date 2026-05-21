@@ -1,0 +1,12 @@
+.DS_Store
+.vscode/*.log
+bin/
+build/
+out/
+
+# Local Garmin/Java configuration
+.env
+.sdk/
+devkey/
+developer_key.der
+developer_key.pem
