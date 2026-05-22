@@ -39,3 +39,7 @@ The manifest still uses the placeholder app UUID:
 `00000000-0000-0000-0000-000000000000`
 
 Replace that before publishing or distributing the app.
+
+## Important Note
+
+DO not use the run_simultor.sh to build and test the app without update the directories and comand to work for your system.
