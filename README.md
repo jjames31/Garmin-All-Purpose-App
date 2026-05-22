@@ -42,4 +42,4 @@ Replace that before publishing or distributing the app.
 
 ## Important Note
 
-DO not use the run_simultor.sh to build and test the app without update the directories and comand to work for your system.
+DO NOT use the run_simultor.sh to build and test the app without update the directories and comand to work for your system.
